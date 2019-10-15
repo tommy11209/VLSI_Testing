@@ -54,7 +54,7 @@ int main()
         std::cout << "x1 = " << x1[i];
         std::cout << " x2 = " << x2[i];
         std::cout << " x3 = " << x3[i] << std::endl;
-        std::cout << endl;
+        std::cout << std::endl;
         std::cout << "a = " << a[i];
         std::cout << " b = " << b[i];
         std::cout << " z = " << z[i] << std::endl;
