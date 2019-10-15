@@ -52,8 +52,8 @@ int main()
     for(int i = 0; i < 8; i++)
     {
         std::cout << "x1 = " << x1[i];
-        std::cout << "x2 = " << x2[i];
-        std::cout << "x3 = " << x3[i] << std::endl;         
+        std::cout << " x2 = " << x2[i];
+        std::cout << " x3 = " << x3[i] << std::endl;         
     }
 
     for(int i = 0; i < 8; i++ )
